@@ -1,0 +1,1 @@
+This repository contains implementation and utilisation of Linear Regression Algorithm
